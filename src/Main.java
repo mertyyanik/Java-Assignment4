@@ -4,4 +4,5 @@ public class Main {
         testCase.readText();
         testCase.commands();
     }
+    
 }
